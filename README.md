@@ -1,1 +1,2 @@
 # mines_game
+test
